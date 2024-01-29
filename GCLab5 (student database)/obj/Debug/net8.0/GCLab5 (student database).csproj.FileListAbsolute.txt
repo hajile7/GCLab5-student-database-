@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\bin\Debug\net8.0\GCLab5 (student database).exe
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\bin\Debug\net8.0\GCLab5 (student database).deps.json
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\bin\Debug\net8.0\GCLab5 (student database).runtimeconfig.json
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\bin\Debug\net8.0\GCLab5 (student database).dll
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\bin\Debug\net8.0\GCLab5 (student database).pdb
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).AssemblyInfo.cs
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).dll
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\refint\GCLab5 (student database).dll
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).pdb
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\GCLab5 (student database).genruntimeconfig.cache
+C:\Users\elire\source\repos\GCLab5 (student database)\GCLab5 (student database)\obj\Debug\net8.0\ref\GCLab5 (student database).dll
